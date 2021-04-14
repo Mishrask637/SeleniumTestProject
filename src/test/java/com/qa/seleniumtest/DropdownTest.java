@@ -56,7 +56,7 @@ public class DropdownTest {
 			}
 			else
 			{
-				System.out.println("No Text is duplicate");
+				System.out.println("None of the Text is duplicate");
 			}
 			
 			System.out.println(" Elements are "+s.getText());
